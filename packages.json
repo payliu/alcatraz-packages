@@ -180,6 +180,12 @@
         "name": "XcodeIDEMavenPlugin",
         "url": "https://github.com/sap-production/xcode-ide-maven-integration",
         "description": "This Plugin integrates the 'Xcode Maven Plugin' into Xcode."
+      },
+      {
+        "name": "XEP",
+        "url": "https://github.com/Centny/XEP",
+        "description": "1. format the source code(it depended by uncrustify tools). 2. copy one line to up or down. 3. using project configure file to create the comment.",
+        "screenshot": "https://raw.github.com/Centny/XEP/master/XEP/Resources/XEP.png"
       }
     ],
     "color_schemes": [
